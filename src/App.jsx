@@ -1,10 +1,9 @@
 import React from 'react';
+import ControlPanel from './components/ControlPanel';
 
 function App() {
   return (
-    <div>
-      <h1>App</h1>
-    </div>
+    <ControlPanel />
   );
 }
 
